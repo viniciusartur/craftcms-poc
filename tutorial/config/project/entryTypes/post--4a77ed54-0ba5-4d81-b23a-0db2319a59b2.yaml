@@ -1,0 +1,83 @@
+color: fuchsia
+fieldLayouts:
+  c731b726-0f70-4716-b137-f9be56c93003:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-01-14T07:09:48+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: ded03cc1-3827-40dd-9906-f698a6ecaa40
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-01-14T07:19:15+00:00'
+            elementCondition: null
+            fieldUid: 094bd73e-265e-4253-b5b6-e7390bae1dea # Image
+            handle: featureImage
+            includeInCards: false
+            instructions: null
+            label: 'Feature Image'
+            providesThumbs: true
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d57e0c4f-62ad-49ac-989c-42d1bd0f60ef
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-01-14T07:19:15+00:00'
+            elementCondition: null
+            fieldUid: b830cfc4-58ae-41be-9b55-71beb0e88780 # Text
+            handle: summary
+            includeInCards: false
+            instructions: null
+            label: Summary
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 28bbe734-d54e-42e3-9050-42dfdd60629f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 76247099-1488-4818-b4ff-ed072f360c71
+        userCondition: null
+handle: post
+hasTitleField: true
+icon: atom
+name: Post
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
