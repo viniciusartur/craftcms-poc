@@ -1,0 +1,22 @@
+dateModified: 1736845503
+email:
+  fromEmail: admin@email.com
+  fromName: craftcms-poc
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    81398c8b-af65-43f1-97cc-697bac688bf0: craftcms-poc # craftcms-poc
+    9185768d-10dc-4d70-b3f1-13ba0ef260b4: craftcms-poc # craftcms-poc
+system:
+  edition: solo
+  live: true
+  name: craftcms-poc
+  schemaVersion: 5.5.0.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
